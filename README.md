@@ -1,1 +1,1 @@
-# CSE471
+# CSE471 project on the go
